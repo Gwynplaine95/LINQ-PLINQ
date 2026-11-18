@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vpran\\source\\repos\\Lab_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9CABB7-9B4C-42C6-A7FE-AB2250F105AF}|..\\TestProject2\\TestProject2.csproj|c:\\users\\vpran\\source\\repos\\testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFEDB32-8333-43E6-90D7-03B3787EF32E}|Lab_4.csproj|c:\\users\\vpran\\source\\repos\\lab_4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFEDB32-8333-43E6-90D7-03B3787EF32E}|Lab_4.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFEDB32-8333-43E6-90D7-03B3787EF32E}|Lab_4.csproj|c:\\users\\vpran\\source\\repos\\lab_4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1BFEDB32-8333-43E6-90D7-03B3787EF32E}|Lab_4.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\vpran\\source\\repos\\TestProject2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestProject2\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\vpran\\source\\repos\\TestProject2\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestProject2\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T19:27:02.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vpran\\source\\repos\\Lab_4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vpran\\source\\repos\\Lab_4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T19:23:01.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vpran\\source\\repos\\Lab_4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\vpran\\source\\repos\\Lab_4\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-18T19:23:03.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
