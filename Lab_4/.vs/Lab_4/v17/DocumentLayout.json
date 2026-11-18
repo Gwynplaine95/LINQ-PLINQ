@@ -43,7 +43,7 @@
               "RelativeDocumentMoniker": "..\\TestProject2\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\vpran\\source\\repos\\TestProject2\\UnitTest1.cs",
               "RelativeToolTip": "..\\TestProject2\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-18T19:27:02.451Z",
               "EditorCaption": ""
@@ -58,8 +58,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T19:23:01.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-18T19:23:01.011Z"
             },
             {
               "$type": "Document",
@@ -70,8 +69,7 @@
               "ToolTip": "C:\\Users\\vpran\\source\\repos\\Lab_4\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-18T19:23:03.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-18T19:23:03.783Z"
             }
           ]
         }
